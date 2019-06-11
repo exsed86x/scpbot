@@ -30,3 +30,5 @@ C:\Users\Admin\Desktop\scp>npm install chalk
 C:\Users\Admin\Desktop\scp>node scp.js
 
 how to get your token : https://www.youtube.com/watch?v=2Awn9hhgBa0
+
+After you just have to execute launch.bat
