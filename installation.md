@@ -37,4 +37,8 @@ C:\Users\Admin\Desktop\scp>node scp.js
 
 how to get your token : https://www.youtube.com/watch?v=2Awn9hhgBa0
 
-After you just have to execute launch.bat
+After you just have to execute launch.bat3
+
+
+
+IF YOU HAVE A PROBLEM ADD ME ON DISCORD :  carti#1337
